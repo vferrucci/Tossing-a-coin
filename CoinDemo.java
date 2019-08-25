@@ -1,6 +1,5 @@
 /**
-*@author: Veranika Tolkach
-*Assignment 4
+*@author: Veronika Ferrucci
 * This program simulates tossing of a coin.
 *First, it calls the default constructor to 
 *assign the initial side to the coin.
