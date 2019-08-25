@@ -1,6 +1,5 @@
 /**
-*@author: Veranika Tolkach
-*Assignment 4
+*@author: Veronika Ferrucci
 * The class Coin simulates a coin.
 */
 import java.util.Random;
